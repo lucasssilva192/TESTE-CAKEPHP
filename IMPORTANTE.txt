@@ -1,0 +1,9 @@
+pra criar todos os arquivos basicos necessarios, usar o cake bake all NOME-DO-MODEL
+
+se define os 'fillables' dentro da pasta entity
+
+importante verificar versão utilizada do cake 
+
+de resto, verificar as pastas dentro de src
+
+as views ficam dentro de template, não de 'View' (dentro da source)
